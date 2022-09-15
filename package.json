@@ -1,0 +1,23 @@
+{
+  "name": "mhb-test-lib",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHB2011/mhb-test-lib.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "Toni Diklic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHB2011/mhb-test-lib/issues"
+  },
+  "homepage": "https://github.com/MHB2011/mhb-test-lib#readme"
+}
